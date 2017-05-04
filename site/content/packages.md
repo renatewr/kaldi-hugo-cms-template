@@ -46,11 +46,6 @@ testimonials:
     quote: >-
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
-  - {}
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -58,8 +53,31 @@ pricing:
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
-  plans: []
+  plans:
+    - description: >-
+        Vi  bidrar til å gjøre den store dagen din til et vakkert minne og
+        skreddersyr din brudepakke etter dine behov og ønsker. Ta kontakt for en
+        konsultasjon og pristilbud.
+      items:
+        - ''
+      plan: Bli Ny Brud
+      price: Ta kontakt for pris
+    - description: >-
+        Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker for alle
+        typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny
+        - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker, brille -
+        og smykkeveiledning samt garderobeplanlegging.
+      plan: Bli Ny Mann
+      price: Ta kontakt for pristilbud
+    - description: >-
+        Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
+        damer. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny -
+        dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker,
+        brille- og smykkeveiledning, og garderobeplanlegging.
+      plan: Bli Ny Dame
+      price: Ta kontakt
 ---
+
 
 
 
