@@ -46,17 +46,9 @@ full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Noen av pakkene
   description: Ta kontakt for en konsultasjon og pristilbud.
-  plans:
-    - description: >-
-        Vi bidrar til å gjøre den store dagen din til et vakkert minne og
-        skreddersyr din brudepakke etter dine behov og ønsker. 
-      items:
-        - Bli Ny Brud
-        - Bli Ny Mann
-        - Bli Ny Dame
-      plan: Ta kontakt for en konsultasjon og pristilbud.
-      price: ''
+  plans: []
 ---
+
 
 
 
