@@ -2,7 +2,7 @@
 title: Bli ny pakker
 type: packages
 page: /packages.html
-image: /img/strekk.jpg
+image: /img/blinypakker.jpg
 heading: Hva vi kan tilby
 description: wfawefawfeawef
 intro:
@@ -77,6 +77,7 @@ pricing:
     month. Contact us about more details and payment info.
   plans: []
 ---
+
 
 
 
