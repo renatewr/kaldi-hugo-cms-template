@@ -41,34 +41,31 @@ testimonials:
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Noen av pakkene
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: Ta kontakt for en konsultasjon og pristilbud.
   plans:
     - description: >-
-        Vi  bidrar til å gjøre den store dagen din til et vakkert minne og
-        skreddersyr din brudepakke etter dine behov og ønsker. Ta kontakt for en
-        konsultasjon og pristilbud.
+        Vi bidrar til å gjøre den store dagen din til et vakkert minne og
+        skreddersyr din brudepakke etter dine behov og ønsker. 
       items:
         - ''
       plan: Bli Ny Brud
-      price: '1000'
+      price: ''
     - description: >-
         Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker for alle
         typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny
         - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker, brille -
         og smykkeveiledning samt garderobeplanlegging.
       plan: Bli Ny Mann
-      price: '1000'
+      price: ''
     - description: >-
         Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
         damer. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny -
         dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker,
         brille- og smykkeveiledning, og garderobeplanlegging.
       plan: Bli Ny Dame
-      price: '1000'
+      price: ''
 ---
+
 
 
 
