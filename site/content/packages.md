@@ -6,17 +6,7 @@ image: /img/blinypakker.jpg
 heading: Hva vi kan tilby
 description: wfawefawfeawef
 intro:
-  blurbs:
-    - image: /img/farger.jpg
-      text: |-
-        Vi tar utgangspunkt i dine naturlige farger og din egen personlige stil.
-        BLI NY på en måte som passer DEG.
-    - image: /img/bliny.jpg
-      text: >-
-        Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private
-        grupper.
-
-        Ta kontakt for en konsultasjon og pristilbud
+  blurbs: []
   heading: Gi verden den beste utgaven av deg selv!
   description: >-
     Følgende inngår i din helt egen Bli Ny - dag:
@@ -26,12 +16,14 @@ intro:
     garderobeplanlegging og fotografering etter ønske.
      
 main:
-  heading: Great coffee with no compromises
+  heading: BLI NY på en måte som passer DEG.
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Vi tar utgangspunkt i dine naturlige farger og din egen personlige stil.
+
+    Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private
+    grupper.
+
+    Ta kontakt for en konsultasjon og pristilbud
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -48,7 +40,7 @@ testimonials:
       the same thing I’ve been drinking every morning.
 full_image: /img/products/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Noen av pakkene
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
@@ -77,6 +69,7 @@ pricing:
       plan: Bli Ny Dame
       price: Ta kontakt
 ---
+
 
 
 
