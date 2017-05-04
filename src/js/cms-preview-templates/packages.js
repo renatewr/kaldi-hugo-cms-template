@@ -74,27 +74,6 @@ export default class PostPreview extends React.Component {
         	</blockquote>
         </div>)}
       </div>
-      
-      <div className="pb4">
-        {(entry.getIn(["data", "packages"]) || []).map((packageitem, index) => <div className="center mb3 ph3" key={index}>
-          <div class="flex-m mhn3-m mb4">
-            <div class="ph3-m w-50-m">
-              <img src={getAsset(entry.get("imageUrl"))} class="db mb2"/>
-            </div>
-            <div class="ph3-m w-50-m">
-              <h3 class="f3 b lh-title mb1">{packageitem.get('heading')}</h3>
-              <p>{packageitem.get('text')}</p>
-            </div>
-          </div>
-          
-              </div>
-
-          <blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
-            <p className="f4 mb0">“{packageitem.get('quote')}”</p>
-            <cite className="tr db grey-3">{testimonial.get('author')}</cite>
-          </blockquote>
-        </div>)}
-      </div>
       <img src={getAsset(entry.getIn(['data', 'full_image']))} alt="" className="db w-100"/>
 
       <div className="bg-off-white pv4 ph3">
