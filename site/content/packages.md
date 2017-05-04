@@ -47,24 +47,13 @@ pricing:
         Vi bidrar til å gjøre den store dagen din til et vakkert minne og
         skreddersyr din brudepakke etter dine behov og ønsker. 
       items:
-        - ''
-      plan: Bli Ny Brud
-      price: ''
-    - description: >-
-        Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker for alle
-        typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny
-        - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker, brille -
-        og smykkeveiledning samt garderobeplanlegging.
-      plan: Bli Ny Mann
-      price: ''
-    - description: >-
-        Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
-        damer. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny -
-        dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker,
-        brille- og smykkeveiledning, og garderobeplanlegging.
-      plan: Bli Ny Dame
+        - Bli Ny Brud
+        - Bli Ny Mann
+        - Bli Ny Dame
+      plan: Ta kontakt for en konsultasjon og pristilbud.
       price: ''
 ---
+
 
 
 
