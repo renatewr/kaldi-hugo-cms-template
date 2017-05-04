@@ -38,6 +38,10 @@ testimonials:
     quote: >-
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
+packages:
+  - heading: Bli Ny Brud
+    imageUrl: /img/bliny.jpg
+    tekst: awefjaweøkfljaøwlekjføwakejf
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Noen av pakkene
@@ -53,6 +57,7 @@ pricing:
       plan: Ta kontakt for en konsultasjon og pristilbud.
       price: ''
 ---
+
 
 
 
