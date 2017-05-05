@@ -1,0 +1,22 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/about/blinypakker.jpg" "title" "Pakker") }}
+
+<div class="mw7 center ph3 pt4">
+  
+  {{ range .Params.treatments }}
+    {{ partial "media-block" . }}
+  {{ end }}
+
+  {{ partial "media-block" (dict "heading" "Shade-grown coffee" "text" "Lorem ipsum." "imageUrl" "/img/about/shade-grown.jpg") }}
+
+  {{ partial "media-block-reverse" (dict "heading" "Lorem ipsum heading" "text" "Lorem ipsum.." "imageUrl" "/img/about/single-origin.jpg") }}
+
+  {{ partial "media-block" (dict "heading" "Sustainable farming" "text" "Lorem ipsum." "imageUrl" "/img/about/sustainable-farming.jpg") }}
+
+  {{ partial "media-block-reverse" (dict "heading" "Direct sourcing" "text" "Lorem ipsum." "imageUrl" "/img/about/direct-sourcing.jpg") }}
+
+  {{ partial "media-block" (dict "heading" "Reinvest profits" "text" "Lorem ipsum." "imageUrl" "/img/about/reinvest-profits.jpg") }}
+</div>
+
+{{ partial "footer" . }}

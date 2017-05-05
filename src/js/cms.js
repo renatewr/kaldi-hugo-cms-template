@@ -4,6 +4,7 @@ import CMS from "netlify-cms";
 import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import PackagesPreview from "./cms-preview-templates/packages";
+import TreatmentsPreview from "./cms-preview-templates/treatments";
 
 
 // Example of creating a custom color widget
@@ -22,4 +23,5 @@ CMS.registerPreviewStyle("/css/main.css");
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("packages", PackagesPreview);
+CMS.registerPreviewTemplate("treatments", TreatmentsPreview);
 CMS.registerWidget("color", ColorControl);
