@@ -18,32 +18,10 @@ intro:
   heading: Gi verden den beste utgaven av deg selv!
   description: >-
     BLI NY på en måte som passer DEG.
-
-
     Følgende inngår i din helt egen Bli Ny - dag:
-
     Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling,
     klesveiledning i butikker, brille - og smykkeveiledning,
-    garderobeplanlegging og fotografering etter ønske.
-     
-main:
-  heading: BLI NY på en måte som passer DEG.
-  description: >
-    Vi tar utgangspunkt i dine naturlige farger og din egen personlige stil.
-
-    Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private
-    grupper.
-
-    Ta kontakt for en konsultasjon og pristilbud
-  image1:
-    alt: ''
-    image: /img/products/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    garderobeplanlegging og fotografering etter ønske.     
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
