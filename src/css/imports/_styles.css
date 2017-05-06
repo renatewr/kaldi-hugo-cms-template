@@ -2,12 +2,30 @@
   background-color: var(--highlight);
 }
 
+.logo{
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 32px;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  display: block;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
+  & .logo{
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
   /* Link hover states */
   & a {
-    transition: var(--hover-transition);
+    transition: var(--hover-transition);    
   }
   & ul a:hover, & ul a:focus {
     box-shadow: inset 0 -4px 0 var(--primary);
