@@ -53,12 +53,13 @@ packages:
   - heading: Bli Ny Brud
     imageUrl: /img/bliny.jpg
     tekst: awefjaweøkfljaøwlekjføwakejf
-full_image: /img/products/products-full-width.jpg
+full_image: /img/bliny.jpg
 pricing:
   heading: Noen av pakkene
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
