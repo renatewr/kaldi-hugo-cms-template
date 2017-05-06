@@ -58,4 +58,5 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Type, name: type, widget: hidden, default: treatments}
           - {label: Page, name: page, widget: hidden, default: "/treatments.html"}
+          - {label: Image, name: image, widget: image}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
