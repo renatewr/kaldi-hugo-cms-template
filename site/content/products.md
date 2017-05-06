@@ -38,14 +38,25 @@ main:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: 'Tripadvisor, Ida, Lørenskog'
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Første besøket mitt hos Cecilie var så vellykket at jeg stadig vekk velger
+      å booke time for enten massasje eller ansiktsbehandling selv når jeg ikke
+      bor på hotellet. Jeg bor utenfor Oslo, og har tilgang på spa i
+      nærområdene. Men den behandlingen Cecilie gir, skal man lete lenge etter.
+      Jeg tar gledelig en omvei eller to for å benytte meg av spaet på Clarion
+      Hotel Royal Christiania, hos Cecilie.
+  - author: 'Facebook, Eirin, Tromsø'
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Tusen hjertelig takk for helt vanvittig bra massasje i går. Dette kan du
+      og anbefaler deg til alle jeg kjenner! Lykke til videre, kommer tilbake
+      ved neste Oslo tur! Hils Per ;-)
+  - author: 'Anna Karin, Stavanager - Facebook'
+    quote: >-
+      Takk for helt fantastisk behandling av Cecilie idag, helt ubeskrivelig
+      proff massasje av rygg nakke og armer på min frisørkropp. Dette var
+      virkelig noe av det beste jeg har prøvd av massasje, og jeg har lang
+      erfaring! Kan anbefales på det sterkeste!
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -76,6 +87,7 @@ pricing:
       plan: Custom
       price: '90'
 ---
+
 
 
 
