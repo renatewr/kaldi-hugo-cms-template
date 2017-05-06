@@ -65,6 +65,18 @@ export default class PostPreview extends React.Component {
           </div>
         </div>
       </div>
+      
+      <div className="mw7 center ph3 pt4">
+        {(entry.getIn(['data', 'packages']) || []).map((packageItem, index) => <div className="flex-m mhn3-m mb4" key={index}>        	
+            <div class="ph3-m w-50-m">
+              <img src={packageItem.get("imageUrl") && getAsset(packageItem.get("imageUrl"))} alt="" className="db mb2"/>
+            </div>
+            <div class="ph3-m w-50-m">
+              <h3 className="f3 b lh-title mb1">{packageItem.get('heading')}</h3>
+              <p>{packageItem.get('text')}</p>
+            </div>
+        </div>)}
+      </div>
 
       <div className="pb4">
         {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
@@ -74,6 +86,7 @@ export default class PostPreview extends React.Component {
         	</blockquote>
         </div>)}
       </div>
+      
       <img src={getAsset(entry.getIn(['data', 'full_image']))} alt="" className="db w-100"/>
 
       <div className="bg-off-white pv4 ph3">

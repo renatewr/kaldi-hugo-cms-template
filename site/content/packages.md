@@ -21,9 +21,7 @@ intro:
     Følgende inngår i din helt egen Bli Ny - dag:
     Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling,
     klesveiledning i butikker, brille - og smykkeveiledning,
-    garderobeplanlegging og fotografering etter ønske.
-package:
-     
+    garderobeplanlegging og fotografering etter ønske.     
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
