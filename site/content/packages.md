@@ -8,9 +8,18 @@ description: wfawefawfeawef
 intro:
   blurbs:
     - image: /img/farger.jpg
-      text: Lorem ipsum lorem ipsum
+      text: >
+        Vi tar utgangspunkt i dine naturlige farger og din egen personlige stil.
+
+        Vi arrangerer også mini Bli Ny - dager for bedrifter og andre private
+        grupper.
+
+        Ta kontakt for en konsultasjon og pristilbud
   heading: Gi verden den beste utgaven av deg selv!
   description: >-
+    BLI NY på en måte som passer DEG.
+
+
     Følgende inngår i din helt egen Bli Ny - dag:
 
     Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling,
@@ -50,6 +59,7 @@ pricing:
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
