@@ -76,5 +76,7 @@
   padding: 0 var(--spacing-small);
   & :first-child {
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+    border-radius:20px;
+    padding:4px;
   }
 }
