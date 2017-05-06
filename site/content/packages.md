@@ -40,10 +40,7 @@ main:
     image: /img/products/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    image: /img/products/products-grid2.jpg  
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
