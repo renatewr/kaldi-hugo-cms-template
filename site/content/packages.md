@@ -6,7 +6,9 @@ image: /img/blinypakker.jpg
 heading: Hva vi kan tilby
 description: wfawefawfeawef
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/farger.jpg
+      text: Lorem ipsum lorem ipsum
   heading: Gi verden den beste utgaven av deg selv!
   description: >-
     Følgende inngår i din helt egen Bli Ny - dag:
@@ -48,6 +50,7 @@ pricing:
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
