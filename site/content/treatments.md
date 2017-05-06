@@ -5,7 +5,6 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 heading: Hva vi kan tilby på Oslo Bli Ny
-image: /img/strekk.jpg
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -60,6 +59,7 @@ main:
 title: Behandlinger
 type: treatments
 page: /treatments.html
+image: /img/massasje_2.jpg
 testimonials:
   - author: Philipp Trommler
     quote: >-
@@ -70,4 +70,5 @@ testimonials:
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
 ---
+
 
