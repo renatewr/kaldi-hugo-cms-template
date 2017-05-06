@@ -27,13 +27,12 @@ testimonials:
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
 packages:
-  - heading: Bli Ny Mann
-    imageUrl: /img/blinypakker.jpg
+  - heading: Bli Ny Dame
     text: >-
-      Bli Ny Mann: Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker
-      for alle typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i
-      Bli Ny - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker,
-      brille - og smykkeveiledning samt garderobeplanlegging.
+      Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
+      damer. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny -
+      dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker,
+      brille- og smykkeveiledning, og garderobeplanlegging.
   - heading: Bli Ny Brud
     imageUrl: /img/blinypakker.jpg
     tekst: awefjaweøkfljaøwlekjføwakejf
@@ -42,18 +41,20 @@ packages:
       skreddersyr din brudepakke etter dine behov og ønsker. Ta kontakt for en
       konsultasjon og pristilbud. Vi har har erfaring fra Europas største
       brudemagasiner og brudeshow.
-  - heading: Bli Ny Dame
+  - heading: Bli Ny Mann
+    imageUrl: /img/bliny.jpg
     text: >-
-      Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
-      damer. Pakken tilpasses dine ønsker og behov. Dette inngår i Bli Ny -
-      dagen: Fargeanalyse, stilanalyse, makeupkurs, klesveiledning i butikker,
-      brille- og smykkeveiledning, og garderobeplanlegging.
+      Bli Ny Mann: Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker
+      for alle typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i
+      Bli Ny - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker,
+      brille - og smykkeveiledning samt garderobeplanlegging.
 full_image: /img/bliny.jpg
 pricing:
   heading: Har du lyst til å prøve?
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
