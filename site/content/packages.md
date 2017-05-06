@@ -17,9 +17,8 @@ intro:
         Ta kontakt for en konsultasjon og pristilbud
   heading: Gi verden den beste utgaven av deg selv!
   description: >-
-    BLI NY på en måte som passer DEG.
-    Følgende inngår i din helt egen Bli Ny - dag:
-    Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling,
+    BLI NY på en måte som passer DEG. Følgende inngår i din helt egen Bli Ny -
+    dag: Fargeanalyse, stilanalyse, makeupkurs, hårtips og frisørbehandling,
     klesveiledning i butikker, brille - og smykkeveiledning,
     garderobeplanlegging og fotografering etter ønske.     
 testimonials:
@@ -31,12 +30,18 @@ packages:
   - heading: Bli Ny Brud
     imageUrl: /img/bliny.jpg
     tekst: awefjaweøkfljaøwlekjføwakejf
+    text: >-
+      Vi  bidrar til å gjøre den store dagen din til et vakkert minne og
+      skreddersyr din brudepakke etter dine behov og ønsker. Ta kontakt for en
+      konsultasjon og pristilbud. Vi har har erfaring fra Europas største
+      brudemagasiner og brudeshow.
 full_image: /img/bliny.jpg
 pricing:
   heading: Noen av pakkene
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
