@@ -50,10 +50,11 @@ packages:
       brille- og smykkeveiledning, og garderobeplanlegging.
 full_image: /img/bliny.jpg
 pricing:
-  heading: Noen av pakkene
+  heading: Har du lyst til å prøve?
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
