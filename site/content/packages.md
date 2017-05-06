@@ -27,20 +27,21 @@ testimonials:
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
 packages:
+  - heading: Bli Ny Mann
+    imageUrl: /img/blinypakker.jpg
+    text: >-
+      Bli Ny Mann: Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker
+      for alle typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i
+      Bli Ny - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker,
+      brille - og smykkeveiledning samt garderobeplanlegging.
   - heading: Bli Ny Brud
-    imageUrl: /img/bliny.jpg
+    imageUrl: /img/blinypakker.jpg
     tekst: awefjaweøkfljaøwlekjføwakejf
     text: >-
       Vi  bidrar til å gjøre den store dagen din til et vakkert minne og
       skreddersyr din brudepakke etter dine behov og ønsker. Ta kontakt for en
       konsultasjon og pristilbud. Vi har har erfaring fra Europas største
       brudemagasiner og brudeshow.
-  - heading: Bli Ny Mann
-    text: >-
-      Bli Ny Mann: Ønsker du en forandring? Vi tilbyr diverse Bli Ny - pakker
-      for alle typer menn. Pakken tilpasses dine ønsker og behov. Dette inngår i
-      Bli Ny - dagen: Fargeanalyse, stilanalyse, klesveiledning i butikker,
-      brille - og smykkeveiledning samt garderobeplanlegging.
   - heading: Bli Ny Dame
     text: >-
       Ønsker du en forandring? Vi tilbyr diverse Bli Ny pakker for alle typer
@@ -53,6 +54,7 @@ pricing:
   description: Ta kontakt for en konsultasjon og pristilbud.
   plans: []
 ---
+
 
 
 
